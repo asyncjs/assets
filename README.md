@@ -6,13 +6,12 @@
 
 ### Colors
 
-<code style="color:#000;">#000</code>
-
-<code style="color:#e52222;">#e52222</code>
-
-<code style="color:#9d999e;">#9d999e</code>
-
-<code style="color:#aaa;">#aaa</code>
+| Name      | Hex Color Code                              |
+|-----------|--------------------------------------------:|
+| Black     | <code style="color:#000;">#000</code>       |
+| Red       | <code style="color:#e52222;">#e52222</code> |
+| Grey      | <code style="color:#9d999e;">#9d999e</code> |
+| Grey dark | <code style="color:#aaa;">#aaa</code>       |
 
 ### Fonts
 
