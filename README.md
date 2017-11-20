@@ -80,3 +80,14 @@ Target font is Catamaran, available on [Google Fonts](https://fonts.google.com/s
   }
 }
 ```
+
+#### Footer text
+
+```less
+{
+  font-family: Catamaran, Helvetica, Arial, Verdana, sans-serif;
+  font-weight: 400;
+  font-size: 12px;
+  color: #aaa;
+}
+```
