@@ -1,4 +1,4 @@
-# ![Async](https://raw.githubusercontent.com/asyncjs/assets/master/branding/logo/async-logo-170-50.png) Assets
+# ![Async](https://raw.githubusercontent.com/asyncjs/assets/master/branding/logo/async-logo-170x50.png) Assets
 
 **A collection of AsyncJS assets**
 
