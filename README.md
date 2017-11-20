@@ -4,6 +4,14 @@
 
 ## Branding
 
+### Colors
+
+<code style="color:#000;">#000</code>
+
+<code style="color:#e52222;">#e52222</code>
+
+<code style="color:#9d999e;">#9d999e</code>
+
 ### Fonts
 
 Target font is Catamaran, available on [Google Fonts](https://fonts.google.com/specimen/Catamaran).
