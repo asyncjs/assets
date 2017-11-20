@@ -12,6 +12,8 @@
 
 <code style="color:#9d999e;">#9d999e</code>
 
+<code style="color:#aaa;">#aaa</code>
+
 ### Fonts
 
 Target font is Catamaran, available on [Google Fonts](https://fonts.google.com/specimen/Catamaran).
