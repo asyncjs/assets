@@ -8,10 +8,10 @@
 
 | Name      | Hex Color Code                              |
 |-----------|--------------------------------------------:|
-| Black     | <code style="color:#000;">#000</code>       |
-| Red       | <code style="color:#e52222;">#e52222</code> |
-| Grey      | <code style="color:#9d999e;">#9d999e</code> |
-| Grey dark | <code style="color:#aaa;">#aaa</code>       |
+| Black     | <code style="color:#000;">#000000</code>       |
+| Red       | <code style="color:#e52222;">#E52222</code> |
+| Grey      | <code style="color:#9d999e;">#9D999E</code> |
+| Grey dark | <code style="color:#aaa;">#AAAAAA</code>       |
 
 ### Fonts
 
@@ -24,10 +24,10 @@ Target font is Catamaran, available on [Google Fonts](https://fonts.google.com/s
   font-family: Catamaran, Helvetica, Arial, Verdana, sans-serif;
   font-weight: 700;
   font-size: 48px;
-  color: #000;
+  color: #000000;
 
   &:hover {
-    color: #e52222;
+    color: #E52222;
   }
 }
 ```
@@ -40,7 +40,7 @@ Target font is Catamaran, available on [Google Fonts](https://fonts.google.com/s
   font-weight: 400;
   font-size: 16px;
   line-height: 26px;
-  color: #000;
+  color: #000000;
 }
 ```
 
@@ -52,7 +52,7 @@ Target font is Catamaran, available on [Google Fonts](https://fonts.google.com/s
   font-weight: 400;
   font-size: 36px;
   text-transform: uppercase;
-  color: #000;
+  color: #000000;
 }
 ```
 
@@ -64,7 +64,7 @@ Target font is Catamaran, available on [Google Fonts](https://fonts.google.com/s
   font-weight: 400;
   font-size: 18px;
   text-transform: uppercase;
-  color: #9d999e;
+  color: #9D999E;
 }
 ```
 
@@ -77,7 +77,7 @@ Target font is Catamaran, available on [Google Fonts](https://fonts.google.com/s
   border-bottom: 1px dashed;
 
   &:hover {
-    color: #e52222;
+    color: #E52222;
   }
 }
 ```
@@ -89,6 +89,6 @@ Target font is Catamaran, available on [Google Fonts](https://fonts.google.com/s
   font-family: Catamaran, Helvetica, Arial, Verdana, sans-serif;
   font-weight: 400;
   font-size: 12px;
-  color: #aaa;
+  color: #AAAAAA;
 }
 ```
