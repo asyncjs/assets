@@ -6,12 +6,12 @@
 
 ### Colors
 
-| Name       | Hex Color Code |
-|:-----------|---------------:|
-| Black      | `#000000` ![swatch](https://raw.githubusercontent.com/asyncjs/assets/master/color-swatches/swatch-black.png) |
-| Red        | `#E52222` ![swatch](https://raw.githubusercontent.com/asyncjs/assets/master/color-swatches/swatch-red.png) |
-| Grey       | `#9D999E` ![swatch](https://raw.githubusercontent.com/asyncjs/assets/master/color-swatches/swatch-grey.png) |
-| Grey light | `#AAAAAA` ![swatch](https://raw.githubusercontent.com/asyncjs/assets/master/color-swatches/swatch-grey-light.png) |
+| Name       | Hex Color Code | Preview |
+|:-----------|---------------:|:-------:|
+| Black      | `#000000`      | ![swatch](https://raw.githubusercontent.com/asyncjs/assets/master/color-swatches/swatch-black.png) |
+| Red        | `#E52222`      | ![swatch](https://raw.githubusercontent.com/asyncjs/assets/master/color-swatches/swatch-red.png) |
+| Grey       | `#9D999E`      | ![swatch](https://raw.githubusercontent.com/asyncjs/assets/master/color-swatches/swatch-grey.png) |
+| Grey light | `#AAAAAA`      | ![swatch](https://raw.githubusercontent.com/asyncjs/assets/master/color-swatches/swatch-grey-light.png) |
 
 ### Fonts
 
