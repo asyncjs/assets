@@ -15,7 +15,7 @@
 
 ### Fonts
 
-Target font is Catamaran, available on [Google Fonts](https://fonts.google.com/specimen/Catamaran).
+Target font is **Catamaran**, available on [Google Fonts](https://fonts.google.com/specimen/Catamaran).
 
 #### Logo text
 
