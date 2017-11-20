@@ -73,7 +73,7 @@ Target font is **Catamaran**, available on [Google Fonts](https://fonts.google.c
 ```less
 {
   text-decoration: none;
-  color: #000;
+  color: #000000;
   border-bottom: 1px dashed;
 
   &:hover {
