@@ -27,7 +27,7 @@ Target font is Catamaran, available on [Google Fonts](https://fonts.google.com/s
   font-size: 48px;
   color: #000;
 
-  :hover {
+  &:hover {
     color: #e52222;
   }
 }
@@ -77,7 +77,7 @@ Target font is Catamaran, available on [Google Fonts](https://fonts.google.com/s
   color: #000;
   border-bottom: 1px dashed;
 
-  :hover {
+  &:hover {
     color: #e52222;
   }
 }
