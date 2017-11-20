@@ -1,2 +1,3 @@
-# assets
-A collection of AsyncJS assets
+# AsyncJS Assets
+
+**A collection of AsyncJS assets**
