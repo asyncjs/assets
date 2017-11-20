@@ -73,7 +73,7 @@ Target font is Catamaran, available on [Google Fonts](https://fonts.google.com/s
 {
   text-decoration: none;
   color: #000;
-  border-bottom: border-bottom: 1px dashed;
+  border-bottom: 1px dashed;
 
   :hover {
     color: #e52222;
