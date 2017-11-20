@@ -7,11 +7,11 @@
 ### Colors
 
 | Name      | Hex Color Code                              |
-|-----------|--------------------------------------------:|
-| Black     | <code style="color:#000;">#000000</code>       |
+|:----------|--------------------------------------------:|
+| Black     | <code style="color:#000;">#000000</code>    |
 | Red       | <code style="color:#e52222;">#E52222</code> |
 | Grey      | <code style="color:#9d999e;">#9D999E</code> |
-| Grey dark | <code style="color:#aaa;">#AAAAAA</code>       |
+| Grey dark | <code style="color:#aaa;">#AAAAAA</code>    |
 
 ### Fonts
 
